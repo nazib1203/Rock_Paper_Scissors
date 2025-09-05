@@ -26,6 +26,9 @@ This project helps beginners practice **Java basics** like user input, random nu
 3. Compile the file:  
    ```bash
    javac RockPaperScissors.java
+4. Run the program:
+   ```bash
+   java RockPaperScissors
 
 ## 🎯 Learning Outcomes
 

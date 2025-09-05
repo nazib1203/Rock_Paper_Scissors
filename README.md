@@ -26,3 +26,21 @@ This project helps beginners practice **Java basics** like user input, random nu
 3. Compile the file:  
    ```bash
    javac RockPaperScissors.java
+
+🎯 Learning Outcomes
+
+Using Scanner for user input
+
+Generating random values with Random
+
+Applying conditionals (if-else)
+
+Comparing user and computer choices
+
+📌 Future Improvements
+
+Add score tracking (Best of 3 / 5)
+
+Add input validation (prevent invalid choices)
+
+Create a GUI version with Swing/JavaFX

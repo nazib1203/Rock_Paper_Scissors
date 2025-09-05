@@ -5,7 +5,7 @@ This project helps beginners practice **Java basics** like user input, random nu
 
 ---
 
-# Features
+## Features
 - User chooses Rock, Paper, or Scissors  
 - The computer randomly selects its move  
 - Determines the winner (Win/Lose/Draw)  
@@ -14,20 +14,20 @@ This project helps beginners practice **Java basics** like user input, random nu
 
 ---
 
-# Tech Stack
+## Tech Stack
 - **Language:** Java  
 - **IDE (Optional):** IntelliJ IDEA / Eclipse / VS Code  
 
 ---
 
-# How to Run
+## How to Run
 1. Clone or download this repository.  
 2. Open the project in your Java IDE (or terminal).  
 3. Compile the file:  
    ```bash
    javac RockPaperScissors.java
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Using Scanner for user input
 
@@ -37,7 +37,7 @@ Applying conditionals (if-else)
 
 Comparing user and computer choices
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 Add score tracking (Best of 3 / 5)
 
